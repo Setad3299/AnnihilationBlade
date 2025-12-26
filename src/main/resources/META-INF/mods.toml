@@ -1,0 +1,45 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/"
+
+[[mods]]
+modId="annihilationblade"
+version="1.1.0"
+displayName="Annihilation Blade"
+authors="Setad"
+description='''
+§5The Ultimate Weapon.
+§7
+Adds the Annihilation Blade, a weapon of mass destruction capable of severing the laws of existence.
+Feature:
+- Absolute Kill (Creative Kill)
+- Absolute Defense
+- Spatial Fracture SA
+'''
+logoFile="icon.png"
+
+
+[[dependencies.annihilationblade]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.annihilationblade]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.annihilationblade]]
+modId="slashblade"
+mandatory=true
+versionRange="[0.0.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[mixins]]
+    type = "FML"
+    config = "annihilationblade.mixins.json"

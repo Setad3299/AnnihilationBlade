@@ -1,0 +1,21 @@
+{
+  "item.annihilationblade.annihilation_blade": "§5Annihilation Blade · Finale",
+  "item.annihilationblade.annihilation_core": "§5Annihilation Core",
+  "item.annihilationblade.annihilation_fragment": "§5Annihilation Fragment",
+  "item.annihilationblade.tab_title": "Annihilation Blade",
+
+  "slashblade.slash_art.annihilationblade.spatial_fracture": "§5Spatial Fracture",
+  "annihilationblade.slash_arts.spatial_fracture": "§5Spatial Fracture",
+  "annihilationblade.slash_art.spatial_fracture": "§5Spatial Fracture",
+  "slash_art.annihilationblade.spatial_fracture": "§5Spatial Fracture",
+
+  "item.annihilationblade.desc.line1": "\"When the stars fall silent, only this blade continues to sing.\"",
+  "item.annihilationblade.desc.line2": "\"Forged not from mortal metal, but from causality and the void itself.\"",
+  "item.annihilationblade.desc.line3": "\"It severs not flesh, but the laws that bind existence.\"",
+  "item.annihilationblade.desc.line4": "\"To wield it is to grasp the end of all things.\"",
+
+  "item.annihilationblade.passive": "§6Passive: Absolute Aegis / Void Flight",
+  "item.annihilationblade.infinite_damage": "+∞ Attack Damage",
+  "item.annihilationblade.annihilation_core.tip": "Right-click to obtain the weapon",
+  "item.annihilationblade.annihilation_fragment.tip": "Used to craft the Annihilation Core"
+}
