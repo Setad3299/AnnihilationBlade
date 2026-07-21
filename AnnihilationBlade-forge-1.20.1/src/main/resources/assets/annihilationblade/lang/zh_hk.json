@@ -1,0 +1,21 @@
+{
+  "item.annihilationblade.annihilation_blade": "§5湮滅之刃·終焉",
+  "item.annihilationblade.annihilation_core": "§5湮滅核心",
+  "item.annihilationblade.annihilation_fragment": "§5湮滅碎片",
+  "item.annihilationblade.tab_title": "湮滅之刃",
+
+  "slashblade.slash_art.annihilationblade.spatial_fracture": "§5空間破碎",
+  "annihilationblade.slash_arts.spatial_fracture": "§5空間破碎",
+  "annihilationblade.slash_art.spatial_fracture": "§5空間破碎",
+  "slash_art.annihilationblade.spatial_fracture": "§5空間破碎",
+
+  "item.annihilationblade.desc.line1": "「當群星歸於寂靜，只有此刃仍在長鳴。」",
+  "item.annihilationblade.desc.line2": "「它並非以凡鐵鍛造，而是因果與虛空凝結而成的權柄。」",
+  "item.annihilationblade.desc.line3": "「所斬的不只是肉體，而是維繫存在的法則。」",
+  "item.annihilationblade.desc.line4": "「握着它，就是握住萬物的終結。」",
+
+  "item.annihilationblade.passive": "§6被動：絕對庇護 / 虛空飛行",
+  "item.annihilationblade.infinite_damage": "+∞ 攻擊傷害",
+  "item.annihilationblade.annihilation_core.tip": "右擊獲取武器",
+  "item.annihilationblade.annihilation_fragment.tip": "可用於合成湮滅核心"
+}

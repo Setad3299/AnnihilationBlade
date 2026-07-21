@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BBB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "annihilationblade:annihilation_fragment",
+    "count": 1
+  }
+}

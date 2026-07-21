@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+mixins = [{config = "annihilationblade.mixins.json"}]
+
+[[mods]]
+modId = "annihilationblade"
+version = "1.3.1"
+displayName = "Annihilation Blade"
+description = '''Annihilation Blade Custom SlashBlade expansion mod for NeoForge 1.21.1.'''
+side = "BOTH"
+
+[[dependencies.annihilationblade]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.annihilationblade]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.annihilationblade]]
+modId = "slashblade"
+type = "required"
+versionRange = "[1.21.1,)"
+ordering = "AFTER"
+side = "BOTH"

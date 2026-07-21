@@ -1,0 +1,41 @@
+{
+  "name": "annihilationblade:annihilation_blade",
+  "properties": {
+    "attack_base": 100.0,
+    "slash_art": "annihilationblade:spatial_fracture",
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "annihilationblade:model/blade.obj",
+    "texture": "annihilationblade:model/blade.png",
+    "summon_sword_color": 11141375
+  },
+  "enchantments": [
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:smite",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:bane_of_arthropods",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:looting",
+      "lvl": 10
+    },
+    {
+      "id": "minecraft:power",
+      "lvl": 10
+    }
+  ]
+}

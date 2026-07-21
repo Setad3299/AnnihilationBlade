@@ -1,0 +1,12 @@
+.idea/
+*.iml
+**/.gradle/
+**/.idea/
+**/build/
+**/run/
+**/runs/
+**/local_repo/
+**/references/
+**/libs/
+*.jar
+!**/gradle/wrapper/gradle-wrapper.jar
